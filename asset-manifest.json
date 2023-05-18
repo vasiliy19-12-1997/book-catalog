@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/book-catalog.git/static/css/main.073c9b0a.css",
+    "main.js": "/book-catalog.git/static/js/main.050b98b4.js",
+    "index.html": "/book-catalog.git/index.html",
+    "main.073c9b0a.css.map": "/book-catalog.git/static/css/main.073c9b0a.css.map",
+    "main.050b98b4.js.map": "/book-catalog.git/static/js/main.050b98b4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.050b98b4.js"
+  ]
+}
